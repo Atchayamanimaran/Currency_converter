@@ -1,0 +1,12 @@
+body{
+  text-align: center;
+  align-items: center;
+  background: linear-gradient(rgb(20, 147, 158), rgb(21, 21, 21));
+  background-repeat: no-repeat;
+  background: cover;
+  color: white;
+  height:100vh;
+  display: flex;
+  margin-left: 600px;
+  
+}
